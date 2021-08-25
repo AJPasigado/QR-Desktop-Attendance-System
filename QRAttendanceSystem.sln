@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRAttendanceSystem", "QRAttendanceSystem\QRAttendanceSystem.csproj", "{BA2FAB8E-BA84-47CD-82A7-6AE42DFE2739}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QR Attendance System Setup", "QR Attendance System Setup\QR Attendance System Setup.vdproj", "{586E780B-227B-46AC-862B-EC78CBC434DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2FAB8E-BA84-47CD-82A7-6AE42DFE2739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2FAB8E-BA84-47CD-82A7-6AE42DFE2739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2FAB8E-BA84-47CD-82A7-6AE42DFE2739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2FAB8E-BA84-47CD-82A7-6AE42DFE2739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586E780B-227B-46AC-862B-EC78CBC434DB}.Debug|Any CPU.ActiveCfg = Debug
+		{586E780B-227B-46AC-862B-EC78CBC434DB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {813BA5CA-0828-40B5-8A5C-CD665DC8D15C}
+	EndGlobalSection
+EndGlobal

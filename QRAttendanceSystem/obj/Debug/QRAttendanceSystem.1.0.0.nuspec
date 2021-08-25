@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>QRAttendanceSystem</id>
+    <version>1.0.0</version>
+    <authors>QRAttendanceSystem</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="AForge" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="AForge.Video" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="AForge.Video.DirectShow" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="Google.Apis" version="1.51.0" exclude="Build,Analyzers" />
+        <dependency id="Google.Apis.Auth" version="1.51.0" exclude="Build,Analyzers" />
+        <dependency id="Google.Apis.Sheets.v4" version="1.51.0.2315" exclude="Build,Analyzers" />
+        <dependency id="QRCoder" version="1.4.1" exclude="Build,Analyzers" />
+        <dependency id="ZXing.Net" version="0.16.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Repo\QRAttendanceSystem\QRAttendanceSystem\bin\Debug\net5.0-windows\QRAttendanceSystem.runtimeconfig.json" target="lib\net5.0-windows7.0\QRAttendanceSystem.runtimeconfig.json" />
+    <file src="D:\Repo\QRAttendanceSystem\QRAttendanceSystem\bin\Debug\net5.0-windows\QRAttendanceSystem.dll" target="lib\net5.0-windows7.0\QRAttendanceSystem.dll" />
+  </files>
+</package>

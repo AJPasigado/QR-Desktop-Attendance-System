@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QRAttendanceSystem.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GoogleSheet_SheetID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">17W76_IJm6ixYQIf0vTg91q4F26c1nOdq62K5Ooxoql4</Value>
+    </Setting>
+    <Setting Name="GoogleSheet_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Attendance!A2</Value>
+    </Setting>
+    <Setting Name="GoogleSheet_Retries" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Admin_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0242C0436DAA4C241CA8A793764B7DFB50C223121BB844CF49BE670A3AF4DD18</Value>
+    </Setting>
+    <Setting Name="Admin_QRFlag" Type="System.String" Scope="User">
+      <Value Profile="(Default)">QR Attendance System by @Ajacence</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
